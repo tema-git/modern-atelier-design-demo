@@ -1,0 +1,39 @@
+{
+  "brand": "Ателье «Модерн»",
+  "short_brand": "Модерн",
+  "slug": "modern-atelier-design-demo",
+  "email": "modernltr@gmail.com",
+  "phone": "+79636399593",
+  "phone_display": "+7 963 639-95-93",
+  "additional_phones": [
+    "+79670404781"
+  ],
+  "address": "3-я улица Ямского Поля, 2к16, офис 204",
+  "city": "Москва",
+  "telegram": null,
+  "source_urls": [
+    "https://asktel.ru/moskva/atele_mehovoe/modern/",
+    "https://www.orgpage.ru/moskva/modern-atele-1903756.html"
+  ],
+  "contacted": false,
+  "spreadsheet_row": null,
+  "verified_on": "2026-10-30",
+  "email_evidence": "Public business email in AskTel company card, with both matching business phones and exact address. AskTel last updated 2019-09-20. Current Orgpage company card returned HTTP200 on 2026-10-30 and corroborates same atelier name, both phones and address.",
+  "email_source_date": "2019-09-20",
+  "identity_evidence": "Independent current Orgpage profile repeats both phones, business name and street/building; category garment/fur atelier. No primary current social/Maps profile found.",
+  "website_status": "No company domain listed on AskTel or Orgpage; exact business/email/name-address searches found no standalone own site. Absence is not guaranteed.",
+  "confidence": "medium",
+  "caveats": [
+    "Mailbox deliverability not tested; public email source last updated in 2019.",
+    "Current independent directory corroboration establishes matching business identity but does not prove day-to-day activity."
+  ],
+  "contacted_evidence": "Root read all 17 Yandex Sent messages visible as of 2026-10-30 and compared this exact email; no sent message to it was found. No mail was sent by the agents.",
+  "approved_for_site_copy_by_root": true,
+  "approved_for_draft_only": true,
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "modern-atelier-design-demo"
+}
